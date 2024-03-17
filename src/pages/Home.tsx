@@ -21,11 +21,10 @@ export default function Home() {
             <Card sx={{ maxWidth: 345 }}>
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  Lizard
+                  Nombre de Quizz
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  Lizards are a widespread group of squamate reptiles, with over
-                  6,000 species, ranging across all continents except Antarctica
+                  65
                 </Typography>
               </CardContent>
             </Card>
@@ -34,11 +33,10 @@ export default function Home() {
           <Card sx={{ maxWidth: 345 }}>
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  Lizard
+                  Nombre User
                 </Typography>
                 <Typography variant="body2" color="text.secondary">
-                  Lizards are a widespread group of squamate reptiles, with over
-                  6,000 species, ranging across all continents except Antarctica
+                 65
                 </Typography>
               </CardContent>
             </Card>
